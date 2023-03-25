@@ -1,0 +1,5 @@
+# environment
+.vscode
+
+# generated files
+*.exe
